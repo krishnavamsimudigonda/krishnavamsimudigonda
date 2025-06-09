@@ -28,13 +28,10 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+**Database & Cloud**  
+`MySQL` | `Firestore` | 
 
 ---
 
@@ -55,10 +52,33 @@
 
 ### 📌 Featured Projects
 
-- 🎯 [**Credit Card Fraud Detection using SMOTE + Stacking**](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)
-- 🧠 [**AI-Powered Retail CRM (Xeno MVP Assignment)**](https://github.com/krishnavamsimudigonda/Xeno-CRM)
-- 📊 [**AI Data Analysis Agent (Streamlit + Together AI)**](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)
-- 🧾 [**Smart Inventory Manager using Flask & RFID**](https://github.com/krishnavamsimudigonda/Smart-Inventory-Manager)
+## 🚀 Projects
+
+### 🔍 [AI Data Analysis Tool](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
+*Streamlit | OpenAI | Together AI | PandasAI*  
+Interactive tool for analyzing CSV and Excel files using natural language prompts.
+
+### 💬 [Retail Aura Chatbot](https://github.com/krishnavamsimudigonda/Retail-Aura)  
+*Gemini API | Kotlin | Firebase | Razorpay*  
+Smart chatbot offering personalized support and recommendations in real time.
+
+### 📊 [Blinkit Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)  
+*Power BI | Kaggle Dataset*  
+Geospatial sales insights and KPIs across outlet size, product category, and ratings.
+
+### 💳 [XRANSM – Credit Card Fraud Detection](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)  
+*SMOTE | XGBoost | Ensemble Model | Scikit-learn*  
+Achieved 98% accuracy with a stacking model on imbalanced fraud detection data.
+
+
+---
+## 🧾 Certifications
+
+**GitHub Foundations** – GitHub (Mar 2025)  
+**OCI Foundations Associate** – Oracle (Feb 2025)  
+**Intro to ML** – NPTEL IIT Kharagpur (Oct 2024)  
+**Python for Data Science** – Coursera (Jul 2024)  
+**SQL for Data Analysis** – HackerRank (Aug 2024)
 
 ---
 
@@ -69,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnavamsimudigonda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=krishnavamsimudigonda&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
