@@ -13,11 +13,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final Year B.Tech Computer Science Student at **SRM Institute of Science and Technology**
-- 🔍 Passionate about **Data Science**, **Machine Learning**, and **AI-driven Web Applications**
-- 💼 Experience in **Salesforce Development**, **AI Integration**, and **Full Stack Development**
-- 📈 Exploring data-driven product insights and AI-enhanced automation
-- 📫 Reach me: **krishnavamsimudigonda@gmail.com**
+-  Final Year B.Tech Computer Science Student at **SRM Institute of Science and Technology**
+-  Passionate about **Data Science**, **Machine Learning**, and **AI-driven Web Applications**
+-  Currently building **AI Agents**, **ML Models**
+-  Exploring data-driven product insights and AI-enhanced automation
+-  Reach me: **krishnavamsimudigonda@gmail.com**
 
 ---
 
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
  
 
