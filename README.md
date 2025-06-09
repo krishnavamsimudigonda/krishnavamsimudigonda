@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Vamsi Mudigonda</h1>
 <h3 align="center">Aspiring Data Analyst & Machine Learning Engineer | Final Year B.Tech CSE @ SRM</h3>
 
-<p align="center">
-  <a href="https://krishnavamsimudigonda.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=Portfolio&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-vamsi-mudigonda-806054241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -84,9 +75,14 @@ Achieved 98% accuracy with a stacking model on imbalanced fraud detection data.
 ---
 
 ### 🤝 Connect with Me
-- 🔗 Portfolio: [krishnavamsimudigonda.github.io/Portfolio](https://krishnavamsimudigonda.github.io/Portfolio/)
-- 🔗 LinkedIn: [linkedin.com/in/krishna-vamsi-mudigonda-806054241](https://www.linkedin.com/in/krishna-vamsi-mudigonda-806054241/)
-
+<p align="center">
+  <a href="https://krishnavamsimudigonda.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=Portfolio&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishna-vamsi-mudigonda-806054241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
