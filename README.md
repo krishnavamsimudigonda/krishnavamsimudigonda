@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Vamsi Mudigonda</h1>
+<h1 align="center">Hi 👋, I'm Krishna Vamsi </h1>
 <h3 align="center">Aspiring Data Analyst & Machine Learning Engineer | Final Year B.Tech CSE @ SRM</h3>
 
 ---
