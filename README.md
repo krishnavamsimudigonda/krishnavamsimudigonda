@@ -46,19 +46,19 @@
 
 ## 🚀 Projects
 
-### 🔍 [AI Data Analysis Tool](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
+###  [AI Data Analysis Tool](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
 *Streamlit | OpenAI | Together AI | PandasAI*  
 Interactive tool for analyzing CSV and Excel files using natural language prompts.
 
-### 💬 [Retail Aura Chatbot](https://github.com/krishnavamsimudigonda/Retail-Aura)  
+###  [Retail Aura Chatbot](https://github.com/krishnavamsimudigonda/Retail-Aura)  
 *Gemini API | Kotlin | Firebase | Razorpay*  
 Smart chatbot offering personalized support and recommendations in real time.
 
-### 📊 [Blinkit Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)  
+###  [Blinkit Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)  
 *Power BI | Kaggle Dataset*  
 Geospatial sales insights and KPIs across outlet size, product category, and ratings.
 
-### 💳 [XRANSM – Credit Card Fraud Detection](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)  
+###  [XRANSM – Credit Card Fraud Detection](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)  
 *SMOTE | XGBoost | Ensemble Model | Scikit-learn*  
 Achieved 98% accuracy with a stacking model on imbalanced fraud detection data.
 
