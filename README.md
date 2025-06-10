@@ -8,7 +8,7 @@
 -  Passionate about **Data Science**, **Machine Learning**, and **AI-driven Web Applications**
 -  Currently building **AI Agents**, **ML Models**
 -  Exploring data-driven product insights and AI-enhanced automation
--  Reach me: **krishnavamsimudigonda@gmail.com**
+-  Reach me: **krishnamudigonda10@gmail.com**
 
 ---
 
