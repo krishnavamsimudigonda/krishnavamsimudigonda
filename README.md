@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 -  Final Year B.Tech Computer Science Student at **SRM Institute of Science and Technology**
 -  Passionate about **Data Science**, **Machine Learning**, and **AI-driven Web Applications**
 -  Currently building **AI Agents**, **ML Models**
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnavamsimudigonda&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavamsimudigonda&layout=compact&theme=radical" height="180" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavamsimudigonda&theme=radical" />
 </p>
@@ -44,7 +44,7 @@
 
 ### 📌 Featured Projects
 
-## 🚀 Projects
+##  Projects
 
 ###  [AI Data Analysis Tool](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
 *Streamlit | OpenAI | Together AI | PandasAI*  
@@ -64,7 +64,7 @@ Achieved 98% accuracy with a stacking model on imbalanced fraud detection data.
 
 
 ---
-## 🧾 Certifications
+##  Certifications
 
 **GitHub Foundations** – GitHub (Mar 2025)  
 **OCI Foundations Associate** – Oracle (Feb 2025)  
@@ -74,7 +74,7 @@ Achieved 98% accuracy with a stacking model on imbalanced fraud detection data.
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://krishnavamsimudigonda.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=Portfolio&logoColor=white" />
