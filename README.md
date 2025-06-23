@@ -46,17 +46,18 @@
 
 ##  Projects
 
-###  [AI Data Analysis Tool](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
-*Streamlit | OpenAI | Together AI | PandasAI*  
-Interactive tool for analyzing CSV and Excel files using natural language prompts.
+###  [AI Data Analysis Platform](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)  
+*Python,JavaScript, Firebase, Chart.js, Gemini API*  
+Built a web-based analytics tool where users can upload CSV/Excel files and query data using natural language, with results shown as interactive charts and structured outputs.
+
 
 ###  [Retail Aura Chatbot](https://github.com/krishnavamsimudigonda/Retail-Aura)  
 *Gemini API | Kotlin | Firebase | Razorpay*  
 Smart chatbot offering personalized support and recommendations in real time.
 
-###  [Blinkit Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)  
-*Power BI | Kaggle Dataset*  
-Geospatial sales insights and KPIs across outlet size, product category, and ratings.
+###  [E‑Commerce Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)  
+*Power BI, Python, Kaggle*  
+Designed a Power BI dashboard to track product performance, regional revenue, customer segments, and order trends using cleaned Kaggle sales data prepared with Python.
 
 ###  [XRANSM – Credit Card Fraud Detection](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)  
 *SMOTE | XGBoost | Ensemble Model | Scikit-learn*  
