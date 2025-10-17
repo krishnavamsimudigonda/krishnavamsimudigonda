@@ -3,13 +3,6 @@
 <!-- Animated Header with AI Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
 
-<!-- Typing Animation -->
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Aspiring+Data+Analyst+%26+ML+Engineer+🤖;Building+Intelligent+AI+Solutions+🚀;Transforming+Data+into+Insights+📊;Final+Year+B.Tech+CSE+%40+SRM+🎓" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
