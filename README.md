@@ -28,7 +28,6 @@ class DataScientist:
             "cgpa": 9.09,
             "graduation": "2026"
         }
-        self.location = "Pallavaram, Tamil Nadu, India"
         self.current_focus = [
             "AI Agents Development",
             "Machine Learning Models",
@@ -37,7 +36,7 @@ class DataScientist:
         ]
     
     def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
+        print("Let's connect and build something amazing together!")
 
 me = DataScientist()
 me.say_hi()
