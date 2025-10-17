@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with AI Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20👋\%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
 
 
 
@@ -49,14 +49,14 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -66,14 +66,14 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Prophet-0081C6?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
-### 🌐 Web Technologies
+###  Web Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Tools
+###  Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -81,12 +81,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
 
 </div>
 
@@ -97,7 +91,7 @@ me.say_hi()
 
 </div>
 
-## 🏅 Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
 
@@ -105,11 +99,11 @@ me.say_hi()
 <tr>
 <td align="center" width="100%">
 
-### 🏆 NatWest Hack4aCause 2025 - FINALIST
+###  NatWest Hack4aCause 2025 - FINALIST
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 
-#### 🚀 LearnIQ - Adaptive AI Assessment Platform
+####  LearnIQ - Adaptive AI Assessment Platform
 
 **Architected an end-to-end AI assessment platform generating personalized, context-aware questions using advanced RAG techniques**
 
@@ -123,35 +117,35 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Adaptive RAG Pipeline
-- 🔄 Dynamic question generation based on learning materials
-- 📈 Personalized difficulty adjustment
-- 📚 Multi-format content support (PDF, PPT, Video transcripts)
+####  Adaptive RAG Pipeline
+-  Dynamic question generation based on learning materials
+-  Personalized difficulty adjustment
+-  Multi-format content support (PDF, PPT, Video transcripts)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 Comprehensive Assessment
-- ✅ Multiple question types (MCQ, SAQ, True/False)
-- 🤖 Automatic grading with detailed feedback
-- 📉 Progress tracking and analytics
+####  Comprehensive Assessment
+-  Multiple question types (MCQ, SAQ, True/False)
+-  Automatic grading with detailed feedback
+-  Progress tracking and analytics
 
 </td>
 </tr>
 </table>
 
-**🛠️ Tech Stack:** React.js | Spring Boot | Google Gemini AI | RESTful APIs
+** Tech Stack:** RAG  | Python | Google Gemini AI | Flask
 
-**🌟 Key Achievement:** Selected as finalist from 400+ participating teams through innovative AI implementation methods
+** Key Achievement:** Selected as finalist from 400+ participating teams through innovative AI implementation methods
 
 ---
 
-### 👨‍💼 Leadership Experience
+###  Leadership Experience
 
 **Technical Team Lead - Logic Play Club @ SRM**
-- 🎓 Organized and led **3 workshops** and **2 ideathons** on Data Analysis, Data Visualization, and Web Development
-- 👥 Engaged **70+ participants** with innovative delivery methods
-- 🚀 Drove increased participant engagement through hands-on technical sessions
+-  Organized and led **3 workshops** and **2 ideathons** on Data Analysis, Data Visualization, and Web Development
+-  Engaged **70+ participants** with innovative delivery methods
+-  Drove increased participant engagement through hands-on technical sessions
 
 </div>
 
@@ -162,7 +156,7 @@ me.say_hi()
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishnavamsimudigonda&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
@@ -182,7 +176,7 @@ me.say_hi()
 
 </div>
 
-## 💼 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -190,32 +184,32 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🤖 [InsightGenie – AI Data Agent](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)
+###  [InsightGenie – AI Data Agent](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 **Web-based analytics platform** automating data cleaning, EDA, and visualization using Flask, Pandas, and Chart.js. Integrated **Google Gemini AI** for natural language queries, enabling real-time insights through an interactive chatbot interface.
 
 **Key Features:**
-- 📊 Automated data cleaning & EDA
-- 🤖 AI-powered natural language queries
-- 📈 Interactive data visualizations
-- ⚡ Real-time trend analysis
+-  Automated data cleaning & EDA
+-  AI-powered natural language queries
+-  Interactive data visualizations
+-  Real-time trend analysis
 
 </td>
 <td width="50%">
 
-### 💳 [Credit Risk Prediction System](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)
+###  [Credit Risk Prediction System](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/SMOTE-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 **Credit risk classifier** using Random Forest, XGBoost, and SMOTE techniques achieving **93% accuracy** and **0.98 ROC-AUC** on financial data. Deployed via Flask web app for real-time risk assessment.
 
 **Key Metrics:**
-- 🎯 93% Accuracy
-- 📈 0.98 ROC-AUC Score
-- ⚡ Real-time predictions
-- 🔒 Automated risk evaluation
+-  93% Accuracy
+-  0.98 ROC-AUC Score
+-  Real-time predictions
+-  Automated risk evaluation
 
 </td>
 </tr>
@@ -223,32 +217,32 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 📦 OptiChain – Supply Chain Demand Forecasting
+###  OptiChain – Supply Chain Demand Forecasting
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/ARIMA-0081C6?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Prophet-00D9FF?style=flat-square&logo=meta&logoColor=white"/>
 
 **Intelligent forecasting platform** integrating ARIMA and Prophet models for automated retail demand prediction with **92% accuracy**. Optimized SQL data pipelines for efficient inventory analytics.
 
 **Key Features:**
-- 📈 92% Forecasting Accuracy
-- 🔄 Automated demand prediction
-- 🗄️ Optimized SQL pipelines
-- 📊 Real-time inventory analytics
+-  92% Forecasting Accuracy
+-  Automated demand prediction
+-  Optimized SQL pipelines
+-  Real-time inventory analytics
 
 </td>
 <td width="50%">
 
-### 🎯 LearnIQ - Adaptive AI Assessment
+### LearnIQ - Adaptive AI Assessment
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
 
 **NatWest Hackathon Finalist** - AI-driven adaptive quiz system using RAG architecture and fuzzy logic for intelligent question generation, semantic evaluation, and personalized learning analytics.
 
 **Achievements:**
-- 🏆 Selected from 400+ teams
-- 🤖 Advanced RAG implementation
-- 📚 Multi-format content support
-- 🎓 Personalized learning paths
+-  Selected from 400+ teams
+-  Advanced RAG implementation
+-  Multi-format content support
+-  Personalized learning paths
 
 </td>
 </tr>
@@ -263,17 +257,17 @@ me.say_hi()
 
 </div>
 
-## 🏆 Certifications
+##  Certifications
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Issuing Organization | 📅 Date |
+|  Certification |  Issuing Organization |  Date |
 |:----------------|:-----------------------:|:-------:|
-| ☁️ **Oracle Cloud Infrastructure Data Science Professional** | Oracle | Aug 2025 |
+|  **Oracle Cloud Infrastructure Data Science Professional** | Oracle | Aug 2025 |
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> **GitHub Foundations** | GitHub | Mar 2025 |
-| 🤖 **Introduction to Machine Learning** | NPTEL IIT Kharagpur | Oct 2024 |
-| 📊 **Fundamentals of SQL** | HackerRank | Aug 2024 |
-| 🐍 **Python for Data Science, AI & Development** | Coursera | Jul 2024 |
+|  **Introduction to Machine Learning** | NPTEL IIT Kharagpur | Oct 2024 |
+|  **Fundamentals of SQL** | HackerRank | Aug 2024 |
+|  **Python for Data Science, AI & Development** | Coursera | Jul 2024 |
 
 </div>
 
@@ -284,29 +278,29 @@ me.say_hi()
 
 </div>
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <div align="center">
 
-### 🏢 Smart Internz | Salesforce Developer Intern
+###  Smart Internz | Salesforce Developer Intern
 **Nov 2023 - Jan 2024**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔧 Key Contributions
-- ⚙️ Automated business workflows using Salesforce Flows and Process Builder
-- 📈 Improved process efficiency and approval time
-- 🔄 Developed Apex triggers and classes for automation
+####  Key Contributions
+-  Automated business workflows using Salesforce Flows and Process Builder
+-  Improved process efficiency and approval time
+-  Developed Apex triggers and classes for automation
 
 </td>
 <td width="50%" valign="top">
 
-#### 🏅 Achievements
-- 🎖️ Earned **12+ Salesforce Trailhead badges**
-- 🛡️ Expertise in declarative design & data modeling
-- 🔐 Contributed to scalable and secure CRM solutions
+####  Achievements
+-  Earned **12+ Salesforce Trailhead badges**
+-  Expertise in declarative design & data modeling
+-  Contributed to scalable and secure CRM solutions
 
 </td>
 </tr>
@@ -321,7 +315,7 @@ me.say_hi()
 
 </div>
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
