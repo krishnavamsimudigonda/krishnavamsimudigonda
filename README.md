@@ -23,7 +23,7 @@ class DataScientist:
             "cgpa": 9.09,
             "graduation": "2026"
         }
-        self.location = "Pallavaram, Tamil Nadu, India"
+        
         self.current_focus = [
             "AI Agents Development",
             "Machine Learning Models",
