@@ -1,101 +1,189 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- Animated Header with AI Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20👋%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Aspiring+Data+Analyst+%26+ML+Engineer;Final+Year+B.Tech+CSE+%40+SRM;Building+AI+Agents+%26+ML+Models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Aspiring+Data+Analyst+%26+ML+Engineer+🤖;Building+Intelligent+AI+Solutions+🚀;Transforming+Data+into+Insights+📊;Final+Year+B.Tech+CSE+%40+SRM+🎓" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Neural Network Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-```yaml
-name: Krishna Vamsi Mudigonda
-located_in: Pallavaram, Tamil Nadu, India
-current_education: Final Year B.Tech CSE @ SRM Institute of Science and Technology
-focus: ["Data Science", "Machine Learning", "AI Applications"]
-currently_building: ["AI Agents", "ML Models", "Data Analytics Solutions"]
-interests: ["Data-Driven Insights", "AI Automation", "Predictive Modeling"]
-email: krishnamudigonda10@gmail.com
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Krishna Vamsi Mudigonda"
+        self.role = "Aspiring Data Analyst & ML Engineer"
+        self.education = {
+            "degree": "B.Tech Computer Science",
+            "university": "SRM Institute of Science and Technology",
+            "cgpa": 9.09,
+            "graduation": "2026"
+        }
+        self.location = "Pallavaram, Tamil Nadu, India"
+        self.current_focus = [
+            "AI Agents Development",
+            "Machine Learning Models",
+            "Data Analytics Solutions",
+            "Predictive Modeling"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's connect and build something amazing together!")
+
+me = DataScientist()
+me.say_hi()
 ```
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-## 🚀 Tech Stack & Tools
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Tech Stack & Tools
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
-### Data Science & ML
+### 🤖 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prophet-0081C6?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### 🌐 Web Technologies
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 </div>
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## 🏅 Achievements & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🏆 NatWest Hack4aCause 2025 - FINALIST
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+#### 🚀 LearnIQ - Adaptive AI Assessment Platform
+
+**Architected an end-to-end AI assessment platform generating personalized, context-aware questions using advanced RAG techniques**
+
+</td>
+</tr>
+</table>
+
+### 📋 Platform Capabilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Adaptive RAG Pipeline
+- 🔄 Dynamic question generation based on learning materials
+- 📈 Personalized difficulty adjustment
+- 📚 Multi-format content support (PDF, PPT, Video transcripts)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Comprehensive Assessment
+- ✅ Multiple question types (MCQ, SAQ, True/False)
+- 🤖 Automatic grading with detailed feedback
+- 📉 Progress tracking and analytics
+
+</td>
+</tr>
+</table>
+
+**🛠️ Tech Stack:** React.js | Spring Boot | Google Gemini AI | RESTful APIs
+
+**🌟 Key Achievement:** Selected as finalist from 400+ participating teams through innovative AI implementation methods
+
+---
+
+### 👨‍💼 Leadership Experience
+
+**Technical Team Lead - Logic Play Club @ SRM**
+- 🎓 Organized and led **3 workshops** and **2 ideathons** on Data Analysis, Data Visualization, and Web Development
+- 👥 Engaged **70+ participants** with innovative delivery methods
+- 🚀 Drove increased participant engagement through hands-on technical sessions
+
+</div>
+
+<div align="center">
+
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishnavamsimudigonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavamsimudigonda&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishnavamsimudigonda&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavamsimudigonda&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavamsimudigonda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavamsimudigonda&layout=compact&theme=algolia&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
-
-<div align="center">
-  
-### 📈 Contribution Graph
-  
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnavamsimudigonda&theme=tokyo-night&hide_border=true)](https://github.com/krishnavamsimudigonda)
 
 </div>
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -107,20 +195,32 @@ email: krishnamudigonda10@gmail.com
 <tr>
 <td width="50%">
 
-### 🤖 [AI Data Analysis Platform](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)
+### 🤖 [InsightGenie – AI Data Agent](https://github.com/krishnavamsimudigonda/Krishna-Data-Agent)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
-Web-based analytics tool enabling natural language queries on CSV/Excel files with interactive chart visualizations and structured outputs powered by Gemini API.
+**Web-based analytics platform** automating data cleaning, EDA, and visualization using Flask, Pandas, and Chart.js. Integrated **Google Gemini AI** for natural language queries, enabling real-time insights through an interactive chatbot interface.
+
+**Key Features:**
+- 📊 Automated data cleaning & EDA
+- 🤖 AI-powered natural language queries
+- 📈 Interactive data visualizations
+- ⚡ Real-time trend analysis
 
 </td>
 <td width="50%">
 
-### 💬 [Retail Aura Chatbot](https://github.com/krishnavamsimudigonda/Retail-Aura)
+### 💳 [Credit Risk Prediction System](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/SMOTE-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-Smart chatbot delivering personalized support and real-time recommendations with integrated Razorpay payment processing.
+**Credit risk classifier** using Random Forest, XGBoost, and SMOTE techniques achieving **93% accuracy** and **0.98 ROC-AUC** on financial data. Deployed via Flask web app for real-time risk assessment.
+
+**Key Metrics:**
+- 🎯 93% Accuracy
+- 📈 0.98 ROC-AUC Score
+- ⚡ Real-time predictions
+- 🔒 Automated risk evaluation
 
 </td>
 </tr>
@@ -128,20 +228,32 @@ Smart chatbot delivering personalized support and real-time recommendations with
 <tr>
 <td width="50%">
 
-### 📊 [E-Commerce Sales Dashboard](https://github.com/krishnavamsimudigonda/Blinkit-Dashboard)
+### 📦 OptiChain – Supply Chain Demand Forecasting
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/ARIMA-0081C6?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Prophet-00D9FF?style=flat-square&logo=meta&logoColor=white"/>
 
-Interactive dashboard tracking product performance, regional revenue, customer segments, and order trends using cleaned Kaggle data.
+**Intelligent forecasting platform** integrating ARIMA and Prophet models for automated retail demand prediction with **92% accuracy**. Optimized SQL data pipelines for efficient inventory analytics.
+
+**Key Features:**
+- 📈 92% Forecasting Accuracy
+- 🔄 Automated demand prediction
+- 🗄️ Optimized SQL pipelines
+- 📊 Real-time inventory analytics
 
 </td>
 <td width="50%">
 
-### 🔒 [XRANSM – Credit Card Fraud Detection](https://github.com/krishnavamsimudigonda/CreditCard-Fraud-Detection)
+### 🎯 LearnIQ - Adaptive AI Assessment
 
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
 
-Ensemble stacking model achieving 98% accuracy on imbalanced fraud detection data using SMOTE and advanced ML techniques.
+**NatWest Hackathon Finalist** - AI-driven adaptive quiz system using RAG architecture and fuzzy logic for intelligent question generation, semantic evaluation, and personalized learning analytics.
+
+**Achievements:**
+- 🏆 Selected from 400+ teams
+- 🤖 Advanced RAG implementation
+- 📚 Multi-format content support
+- 🎓 Personalized learning paths
 
 </td>
 </tr>
@@ -151,8 +263,8 @@ Ensemble stacking model achieving 98% accuracy on imbalanced fraud detection dat
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -160,20 +272,57 @@ Ensemble stacking model achieving 98% accuracy on imbalanced fraud detection dat
 
 <div align="center">
 
-| Certification | Issuing Organization | Date |
-|:-------------:|:--------------------:|:----:|
-| 🎓 **GitHub Foundations** | GitHub | Mar 2025 |
-| ☁️ **OCI Foundations Associate** | Oracle | Feb 2025 |
+| 🎓 Certification | 🏢 Issuing Organization | 📅 Date |
+|:----------------|:-----------------------:|:-------:|
+| ☁️ **Oracle Cloud Infrastructure Data Science Professional** | Oracle | Aug 2025 |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> **GitHub Foundations** | GitHub | Mar 2025 |
 | 🤖 **Introduction to Machine Learning** | NPTEL IIT Kharagpur | Oct 2024 |
-| 🐍 **Python for Data Science** | Coursera | Jul 2024 |
-| 📊 **SQL for Data Analysis** | HackerRank | Aug 2024 |
+| 📊 **Fundamentals of SQL** | HackerRank | Aug 2024 |
+| 🐍 **Python for Data Science, AI & Development** | Coursera | Jul 2024 |
 
 </div>
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🏢 Smart Internz | Salesforce Developer Intern
+**Nov 2023 - Jan 2024**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔧 Key Contributions
+- ⚙️ Automated business workflows using Salesforce Flows and Process Builder
+- 📈 Improved process efficiency and approval time
+- 🔄 Developed Apex triggers and classes for automation
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏅 Achievements
+- 🎖️ Earned **12+ Salesforce Trailhead badges**
+- 🛡️ Expertise in declarative design & data modeling
+- 🔐 Contributed to scalable and secure CRM solutions
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<!-- AI Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -182,29 +331,33 @@ Ensemble stacking model achieving 98% accuracy on imbalanced fraud detection dat
 <div align="center">
 
 <a href="https://krishnavamsimudigonda.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/krishna-vamsi-mudigonda-806054241/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
 </a>
 <a href="mailto:krishnamudigonda10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
+</a>
+<a href="https://github.com/krishnavamsimudigonda" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=krishnavamsimudigonda&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<!-- Profile Views Counter with Animation -->
+<img src="https://komarev.com/ghpvc/?username=krishnavamsimudigonda&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=101010" />
 
-<!-- Animated Trophy -->
 <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=krishnavamsimudigonda&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<!-- Coding Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<!-- AI Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=120&section=footer" />
 
 </div>
