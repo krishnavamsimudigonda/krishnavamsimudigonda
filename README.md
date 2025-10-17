@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with AI Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20👋%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=200&section=header&text=Hi%20%20I'm%20Krishna%20Vamsi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
 <p>
